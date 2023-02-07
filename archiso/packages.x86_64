@@ -134,21 +134,21 @@ zsh
 #######################################################
 
 alci-dwm
-alci-dwm-nemesis
+#alci-dwm-nemesis
 alci-calamares
-alci-calamares-dev
+#alci-calamares-dev
 alci-calamares-config
-alci-calamares-config-btrfs
-alci-calamares-config-dev
-alci-calamares-config-hardened
-alci-calamares-config-lts
+#alci-calamares-config-btrfs
+#alci-calamares-config-dev
+#alci-calamares-config-hardened
+#alci-calamares-config-lts
 alci-calamares-config-pure
-alci-calamares-config-xanmod
-alci-calamares-config-zen
+#alci-calamares-config-xanmod
+#alci-calamares-config-zen
 xterm
 
 
-
+sddm
 bash-completion
 libxinerama
 make
